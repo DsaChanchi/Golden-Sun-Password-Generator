@@ -1,7 +1,7 @@
 # Golden-Sun-Password-Generator
 Golden Sun Password Generator for Windows
 
-Not mine, is from http://home.earthlink.net/~paul3/index.html
+Not mine, it's from http://home.earthlink.net/~paul3/index.html
 
 Thx Paulygon
 
